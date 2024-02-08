@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CineFlix/static/css/main.e6c13ad2.css",
+    "main.js": "/CineFlix/static/js/main.5a260187.js",
+    "index.html": "/CineFlix/index.html",
+    "main.e6c13ad2.css.map": "/CineFlix/static/css/main.e6c13ad2.css.map",
+    "main.5a260187.js.map": "/CineFlix/static/js/main.5a260187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5a260187.js"
+  ]
+}
